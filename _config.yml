@@ -25,10 +25,10 @@ description: >- # this means to ignore newlines until "baseurl:"
   when losing something or picking up someone else's lost items.
   Posting on the university community platform "Everytime" 
   sometimes results in getting buried among other posts.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/FALLEN-web" # the subpath of your site, e.g. /blog
 url: "https://day024.github.io/FALLEN-web" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  day024
 
 # Build settings
 plugins:
