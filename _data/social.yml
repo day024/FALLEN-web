@@ -1,0 +1,7 @@
+- title: GitHub
+  url: https://github.com/just-codingbaby/FALLEN
+  icon: fab fa-github
+
+- title: documentation
+  url: https://fallen.readthedocs.io/en/latest
+  icon: fas fa-regular fa-file
