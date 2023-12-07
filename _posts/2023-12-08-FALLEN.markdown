@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "FALLEN"
+date:   2023-12-08 03:10:03 +0900
+categories: jekyll update
+---
+
+
+Check out the [FALLEN-docs][FALLEN-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [FALLEN’s GitHub repo][FALLEN-git]. More information will be updated on [FALLEN web][FALLEN-web].
+
+[FALLEN-docs]: https://fallen.readthedocs.io
+[FALLEN-git]:  https://github.com/just-codingbaby/FALLEN
+[FALLEN-web]: https://day024.github.io/FALLEN-web/
