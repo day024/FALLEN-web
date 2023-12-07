@@ -18,45 +18,58 @@ layout: default
 </style>
 
 <div class="container">
-    <h1>about</h1>
+    <h1>About</h1>
 
-    <p><strong>about</strong></p>
-    <p>There is inconvenience at school due to the absence of an appropriate system when losing something or picking up
-        someone else's lost items.<br>
-        Posting on the university community platform "Everytime" sometimes results in getting buried among other posts.
-    </p>
-    <br>
-    <p><strong>🔧Install</strong></p>
-    <p><strong>For Linux</strong><br>
-    1. Install venv
-    <pre><code>sudo apt-get install python3-venv</code></pre>
-    2. Create a virtual environment
-    <pre><code>python3 -m venv virtual</code></pre>
-
-    3. Start the virtual environment
-    <pre><code>source virtual/bin/activate</code></pre>
-
-    4. Now your path will change and it will show the name of your virtual environment
-    <pre><code>(virtual)</code></pre>
-
-    5. Now install Django, Pillow, and crispy-forms (required in this application)
-    <pre><code>pip install Django<br>pip install pillow<br>pip install django-crispy-forms<br></code></pre>
+    <p><strong>About</strong></p>
+    <p>
+        There is inconvenience at school due to the absence of an appropriate system when losing something or picking up
+        someone else's lost items. Posting on the university community platform "Everytime" sometimes results in getting
+        buried among other posts.
     </p>
 
-    <p><strong>For Windows</strong><br>
-    1. Create a virtual environment
-    <pre><code>python -m venv virtual</code></pre>
-
-    2. Activate the virtual environment
-    <pre><code>.\virtual\Scripts\activate</code></pre>
-
-    3. Install Django, Pillow, and django-crispy-forms
-    <pre><code>pip install Django pillow django-crispy-forms</code></pre>
+    <p><strong>Purpose</strong></p>
+    <p>
+        We provide a web platform to quickly locate lost items and their owners within the university campus.
     </p>
 
-    <p><strong>🔧 Usage</strong><br>
-    1. Now clone the repository and change the directory to mysite and execute
-    <pre><code>python manage.py runserver</code></pre>
-    2. You can access the website in your <a href="http://127.0.0.1:8000/">local host!</a>
-    </p>
+    <p><strong>Features</strong></p>
+    <ul>
+        <li>Login & Registration: Provide authentication for users through login and registration functionalities.</li>
+        <li>User Special Options: Allow users to set unique special options.</li>
+        <li>User Option Details: Provide a feature to view detailed information about the user's selected special options.</li>
+        <li>Report Lost Item: Enable users to report lost items on the web platform.</li>
+        <li>Lost Items List: Display a list of lost items for users to browse.</li>
+        <li>Report Found Item: Allow users to report found items on the web platform.</li>
+        <li>Found Items List: Display a list of items that have been found.</li>
+    </ul>
+
+    <p><strong>🔧 Install</strong></p>
+    <p><strong>For Linux</strong></p>
+    <pre>
+        <code>
+            sudo apt-get install python3-venv
+            python3 -m venv virtual
+            source virtual/bin/activate
+            pip install Django pillow django-crispy-forms
+        </code>
+    </pre>
+
+    <p><strong>For Windows</strong></p>
+    <pre>
+        <code>
+            python -m venv virtual
+            .\virtual\Scripts\activate
+            pip install Django pillow django-crispy-forms
+        </code>
+    </pre>
+
+    <p><strong>🔧 Usage</strong></p>
+    <li>Now clone the repository and change the directory to mysite and execute</li>
+    <pre>
+        <code>
+            python manage.py runserver
+        </code>
+    </pre>
+    <li>Access the website at <a href="http://127.0.0.1:8000/">local host</a> </li>
+   
 </div>
