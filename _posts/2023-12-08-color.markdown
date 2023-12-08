@@ -3,6 +3,7 @@ layout: post
 title:  "color/logo"
 date:   2023-12-08 13:10:03 +0900
 categories: jekyll update
+---
 
 우리가 사용한 색상 및 공식 로고에 관하여 
 
