@@ -3,6 +3,8 @@ layout: post
 title:  "Color/Logo"
 date:   2023-12-08 13:10:03 +0900
 categories: jekyll update
+image: _sass/quartz/images/question-mark-3255136_1280.jpg
+
 ---
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -12,12 +14,15 @@ categories: jekyll update
   @import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@400;700;800&display=swap');
 </style>
 
+
 <style type="text/css" media="screen">
     body {
         font-family: 'Nanum Gothic', sans-serif !important;
         font-size: 16px;
     }
 </style>
+
+
 
 우리가 사용한 색상 및 공식 로고에 관하여 '에브리타임' 대신에 학생들이 이용할 수 있는 사이트로, 신뢰성을 주기 위해 학교의 교포와 색상을 사용하고자 하였습니다.
 
