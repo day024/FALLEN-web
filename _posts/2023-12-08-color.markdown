@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Color/Logo"
-date:   2023-12-08 13:10:03 +0900
+title: "Color/Logo"
+date: 2023-12-08 13:10:03 +0900
 categories: jekyll update
-image: _sass/quartz/images/question-mark-3255136_1280.jpg
+image: https://cdn.pixabay.com/photo/2018/03/23/22/10/question-mark-3255136_1280.jpg
 
 ---
 
@@ -13,7 +13,6 @@ image: _sass/quartz/images/question-mark-3255136_1280.jpg
 <style>
   @import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@400;700;800&display=swap');
 </style>
-
 
 <style type="text/css" media="screen">
     body {

@@ -27,7 +27,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   sometimes results in getting buried among other posts.
 baseurl: "/FALLEN-web" # the subpath of your site, e.g. /blog
 url: "https://day024.github.io/FALLEN-web" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
+twitter_username: 
 github_username:  day024
 
 # Build settings
